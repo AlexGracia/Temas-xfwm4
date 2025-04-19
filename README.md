@@ -9,5 +9,5 @@ Conjunto de temas [xfwm4](https://docs.xfce.org/xfce/xfwm4/).
 - [x] 1. [Oliva-dark](Oliva-dark)
 
 ## Relacionado
-- Inspiración: [City XFCE](https://www.xfce-look.org/p/1165653)
-- Utilizado en: [Auto-xfce](https://github.com/AlexGracia/Auto-xfce)
+- Inspirado en [City XFCE](https://www.xfce-look.org/p/1165653)
+- Utilizado en [Auto-xfce](https://github.com/AlexGracia/Auto-xfce)
