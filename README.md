@@ -8,6 +8,8 @@ Conjunto de temas [xfwm4](https://docs.xfce.org/xfce/xfwm4/).
 ## Previsualización
 [![Oliva-dark](Oliva-dark/oliva-dark.png)](Oliva-dark)
 
+Utilizado junto con [Adwaita](https://developer.gnome.org/hig/guidelines/ui-styling.html).
+
 ## Relacionado
 - Inspirado en [City XFCE](https://www.xfce-look.org/p/1165653)
 - Utilizado en [Auto-xfce](https://github.com/AlexGracia/Auto-xfce)
