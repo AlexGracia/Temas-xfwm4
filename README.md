@@ -5,7 +5,7 @@
 
 Conjunto de temas [xfwm4](https://docs.xfce.org/xfce/xfwm4/).
 
-## Temas
+## Previsualización
 [![Oliva-dark](Oliva-dark/oliva-dark.png)](Oliva-dark)
 
 ## Relacionado
