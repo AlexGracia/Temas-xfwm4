@@ -7,6 +7,7 @@ Conjunto de temas [xfwm4](https://docs.xfce.org/xfce/xfwm4/).
 
 ## Previsualización
 [![Oliva-dark](img/previsualizaciones/oliva-dark.png)](Oliva-dark)
+[![Lavanda-dark](img/previsualizaciones/lavanda-dark.png)](Lavanda-dark)
 
 Utilizado junto con [Adwaita](https://developer.gnome.org/hig/guidelines/ui-styling.html).
 
