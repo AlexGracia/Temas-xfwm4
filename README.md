@@ -6,7 +6,7 @@
 Conjunto de temas [xfwm4](https://docs.xfce.org/xfce/xfwm4/).
 
 ## Previsualización
-[![Oliva-dark](img/oliva-dark.png)](Oliva-dark)
+[![Oliva-dark](img/previsualizaciones/oliva-dark.png)](Oliva-dark)
 
 Utilizado junto con [Adwaita](https://developer.gnome.org/hig/guidelines/ui-styling.html).
 
