@@ -10,6 +10,7 @@ Conjunto de temas [xfwm4](https://docs.xfce.org/xfce/xfwm4/).
 [![Lavanda-dark](img/previsualizaciones/lavanda-dark.png)](Lavanda-dark)
 [![Gris-light](img/previsualizaciones/gris-light.png)](Gris-light)
 [![Lavanda-light](img/previsualizaciones/lavanda-light.png)](Lavanda-light)
+[![Oliva-light](img/previsualizaciones/oliva-light.png)](Oliva-light)
 
 Utilizado junto con [Adwaita](https://developer.gnome.org/hig/guidelines/ui-styling.html).
 
